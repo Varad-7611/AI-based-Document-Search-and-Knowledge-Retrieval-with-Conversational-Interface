@@ -9,7 +9,7 @@ An AI-powered document search and conversational question-answering system that 
 - Upload and process multiple **PDF** and **TXT** documents  
 - Semantic search using vector embeddings  
 - Conversational question-answering interface  
-- Answers restricted strictly to document context (no hallucinations)  
+- Answers restricted strictly to document context 
 - OCR fallback for scanned or image-based PDFs  
 - Modern dark UI with smooth hover effects  
 - Fast and efficient vector search using **ChromaDB**  
