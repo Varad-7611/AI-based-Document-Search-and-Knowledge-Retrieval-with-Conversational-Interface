@@ -82,4 +82,12 @@ If the answer is not found in the documents, the system responds with:
 
 ---
 
+## 🖼️ Application Screenshot
+
+<img width="1890" height="789" alt="Screenshot 2026-01-20 234913" src="https://github.com/user-attachments/assets/68139d76-27e6-471f-97f2-2c68239436ed" />
+
+---
+
+<img width="1918" height="848" alt="Screenshot 2026-01-20 235026" src="https://github.com/user-attachments/assets/8a216c5a-4773-4e7a-963f-ff5df48c446a" />
+
 
