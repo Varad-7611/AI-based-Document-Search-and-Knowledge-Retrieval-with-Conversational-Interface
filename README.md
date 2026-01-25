@@ -19,6 +19,7 @@ An AI-powered document search and conversational question-answering system that 
 
 ## 🧠 Technology Stack
 
+
 - **Frontend**: Streamlit  
 - **LLM**: Meta LLaMA 3.2 Instruct (Hugging Face)  
 - **Embeddings**: sentence-transformers/all-MiniLM-L6-v2  
